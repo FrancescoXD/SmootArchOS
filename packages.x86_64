@@ -103,7 +103,8 @@ xorg-xrandr
 xorg-xrdb
 
 # Desktop Environment
-plasma
+#plasma
+plasma-desktop
 sddm
 
 # Zsh
@@ -136,6 +137,6 @@ binutils
 neofetch
 
 # VirtualBox
-virtualbox-guest-utils
-virtualbox-guest-dkms
-linux-headers
+#virtualbox-guest-utils
+#virtualbox-guest-dkms
+#linux-headers
